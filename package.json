@@ -17,19 +17,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danwdart/drpl.git"
+    "url": "git+https://github.com/emberdart/drpl.git"
   },
   "keywords": [
     "reverse",
     "polish",
     "language"
   ],
-  "author": "Dan Dart <npm@dandart.co.uk>",
+  "author": "Ember Dart <npm@emberdart.co.uk>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danwdart/drpl/issues"
+    "url": "https://github.com/emberdart/drpl/issues"
   },
-  "homepage": "https://github.com/danwdart/drpl#readme",
+  "homepage": "https://github.com/emberdart/drpl#readme",
   "devDependencies": {
     "eslint": "^9.15.0"
   },
